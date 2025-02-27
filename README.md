@@ -5,12 +5,9 @@ ResuMatch is an intelligent application that evaluates the alignment between a c
 
 ## Demo
 
-<div align="center">
-  <video width="100%" controls>
-    <source src="demo/resume_matcher_demo.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
+
+Uploading resume_matcher_demo.mp4…
+
 
 ## Features
 
