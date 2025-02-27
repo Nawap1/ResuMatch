@@ -5,12 +5,10 @@ ResuMatch is an intelligent application that evaluates the alignment between a c
 
 ## Demo
 
-<div align="center">
-  <video width="100%" controls>
-    <source src="demo/resume_matcher_demo.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
+
+https://github.com/user-attachments/assets/160f665a-23a3-49b4-8530-d46eb820149b
+
+
 
 ## Features
 
@@ -39,7 +37,6 @@ ResuMatch is an intelligent application that evaluates the alignment between a c
 1. Clone the repository:
    ```bash
    git clone https://github.com/Nawap1/ResuMatch.git
-   cd cv-evaluator-langgraph
    ```
 
 2. Install dependencies:
@@ -86,14 +83,12 @@ Then open your web browser and navigate to the provided URL (typically http://lo
 ## Project Structure
 
 ```
-cv-evaluator-langgraph/
+resumatch/
 ├── app.py              # Main application file
 ├── data/               # Sample data
 │   ├── cv.txt          # Example CV
 │   └── job_description.txt  # Example job description
 ├── .env                # Environment variables (API keys)
-├── requirements.txt    # Project dependencies
-├── screenshots/        # Application screenshots
-└── demo/               # Demo videos
+└── requirements.txt    # Project dependencies
 ```
 
