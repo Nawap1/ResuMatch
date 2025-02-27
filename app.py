@@ -20,6 +20,33 @@ load_dotenv()
 # Set page config
 st.set_page_config(page_title="ResuMatch: AI-Powered CV-Job Alignment Tool", layout="wide")
 
+# Sidebar with about information and demo
+st.sidebar.header("About")
+st.sidebar.info("""
+ResuMatch is an AI-powered tool that evaluates the alignment between a CV and job description,
+providing detailed feedback and generating professional email responses.
+""")
+
+
+# Options section
+st.sidebar.header("Options")
+if st.sidebar.button("Use Sample Data"):
+    try:
+        # Read sample CV and job description from data directory
+        with open('data/cv.txt', 'r') as f:
+            cv_content = f.read()
+        with open('data/job_description.txt', 'r') as f:
+            job_content = f.read()
+        
+        with st.spinner("Processing sample data..."):
+            result = process_cv_job(cv_content, job_content)
+            st.session_state.evaluation = result["evaluation"]
+            st.session_state.email = result["email"]
+            st.session_state.cv_content = cv_content
+            st.session_state.job_content = job_content
+    except Exception as e:
+        st.error(f"Error loading sample data: {str(e)}")
+
 # Check if API key is available
 if not os.getenv('MISTRAL_API_KEY'):
     st.error("Mistral API Key not found. Please add it to your .env file.")
