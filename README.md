@@ -89,7 +89,6 @@ cv-evaluator-langgraph/
 │   ├── cv.txt          # Example CV
 │   └── job_description.txt  # Example job description
 ├── .env                # Environment variables (API keys)
-├── requirements.txt    # Project dependencies
-└── demo/               # Demo videos
+└── requirements.txt    # Project dependencies
 ```
 
