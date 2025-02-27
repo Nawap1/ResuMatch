@@ -18,7 +18,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Set page config
-st.set_page_config(page_title="CV Evaluator", layout="wide")
+st.set_page_config(page_title="ResuMatch: AI-Powered CV-Job Alignment Tool", layout="wide")
 
 # Check if API key is available
 if not os.getenv('MISTRAL_API_KEY'):
@@ -188,7 +188,7 @@ def process_cv_job(cv_content, job_content):
         }
 
 # Streamlit UI
-st.title("CV Evaluator")
+st.title("ResuMatch: AI-Powered CV-Job Alignment Tool")
 st.write("Upload your CV and a job description to get an evaluation and email response.")
 
 # Initialize session state variables
