@@ -39,7 +39,6 @@ ResuMatch is an intelligent application that evaluates the alignment between a c
 1. Clone the repository:
    ```bash
    git clone https://github.com/Nawap1/ResuMatch.git
-   cd cv-evaluator-langgraph
    ```
 
 2. Install dependencies:
@@ -93,7 +92,6 @@ cv-evaluator-langgraph/
 │   └── job_description.txt  # Example job description
 ├── .env                # Environment variables (API keys)
 ├── requirements.txt    # Project dependencies
-├── screenshots/        # Application screenshots
 └── demo/               # Demo videos
 ```
 
