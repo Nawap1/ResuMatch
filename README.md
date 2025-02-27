@@ -83,7 +83,7 @@ Then open your web browser and navigate to the provided URL (typically http://lo
 ## Project Structure
 
 ```
-resumatch/
+ResuMatch/
 ├── app.py              # Main application file
 ├── data/               # Sample data
 │   ├── cv.txt          # Example CV
