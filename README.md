@@ -6,7 +6,8 @@ ResuMatch is an intelligent application that evaluates the alignment between a c
 ## Demo
 
 
-Uploading resume_matcher_demo.mp4…
+https://github.com/user-attachments/assets/160f665a-23a3-49b4-8530-d46eb820149b
+
 
 
 ## Features
