@@ -1,0 +1,49 @@
+Job Title: Senior AI Engineer
+Department: Artificial Intelligence
+Location: Remote (US-based)
+
+About the Company:
+TechFusion is a leading AI solutions provider specializing in developing cutting-edge technologies 
+for enterprise clients. Our team is dedicated to pushing the boundaries of what's possible with 
+artificial intelligence and machine learning.
+
+Job Description:
+We are seeking an experienced Senior AI Engineer to join our growing team. In this role, you will 
+design, develop, and deploy advanced machine learning models and AI solutions that address 
+complex business challenges for our clients. You will work closely with cross-functional teams to 
+transform raw data into valuable insights and actionable intelligence.
+
+Key Responsibilities:
+• Design and implement machine learning models using Python and related ML frameworks
+• Lead the development of NLP and computer vision solutions for diverse client needs
+• Optimize existing ML pipelines for improved performance and accuracy
+• Collaborate with data engineers to develop efficient data processing workflows
+• Mentor junior team members and contribute to technical direction
+• Stay current with the latest research and technologies in AI/ML
+• Communicate complex technical concepts to non-technical stakeholders
+
+Required Qualifications:
+• Bachelor's or Master's degree in Computer Science, AI, or related field
+• 5+ years of professional software development experience
+• 3+ years of hands-on experience with ML frameworks such as TensorFlow or PyTorch
+• Strong proficiency in Python and related data science libraries
+• Experience with cloud platforms (AWS, GCP, or Azure)
+• Knowledge of containerization tools like Docker and orchestration with Kubernetes
+• Excellent problem-solving skills and attention to detail
+
+Preferred Qualifications:
+• PhD in Machine Learning, AI, or related field
+• Experience with NLP and large language models
+• Familiarity with MLOps practices and tools
+• Contributions to open-source projects or research publications
+• Experience with distributed computing frameworks
+
+Benefits:
+• Competitive salary and performance bonuses
+• Comprehensive health, dental, and vision insurance
+• Flexible work schedule and remote work options
+• Continuous learning budget for conferences and courses
+• 401(k) matching program
+• Stock options
+
+TechFusion is an equal opportunity employer committed to diversity in the workplace.

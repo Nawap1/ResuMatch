@@ -1,0 +1,38 @@
+JOHN DOE
+Software Engineer
+john.doe@email.com | (555) 123-4567 | linkedin.com/in/johndoe | github.com/johndoe
+
+SUMMARY
+Experienced software engineer with 5 years of expertise in machine learning and AI applications.
+Proficient in Python, Java, and cloud technologies with a track record of delivering scalable
+solutions and optimizing system performance.
+
+SKILLS
+• Programming Languages: Python, Java, JavaScript, SQL, C++
+• Frameworks & Libraries: TensorFlow, PyTorch, scikit-learn, Flask, React
+• Cloud & DevOps: AWS, Docker, Kubernetes, CI/CD pipelines
+• Machine Learning: NLP, Computer Vision, Predictive Analytics
+• Database: PostgreSQL, MongoDB, Redis
+
+PROFESSIONAL EXPERIENCE
+
+Senior Machine Learning Engineer | TechInnovate Inc. | 2021-Present
+• Developed and deployed ML models that improved customer recommendation accuracy by 35%
+• Led a team of 4 engineers in implementing a real-time NLP processing pipeline
+• Reduced model inference time by 40% through optimization techniques
+• Collaborated with product teams to integrate AI solutions into existing platforms
+
+Software Developer | DataSolutions Corp | 2019-2021
+• Built RESTful APIs serving 1M+ daily requests with 99.9% uptime
+• Implemented data processing pipelines handling 500GB of daily data
+• Contributed to open-source ML libraries with 500+ GitHub stars
+• Reduced cloud infrastructure costs by 25% through resource optimization
+
+EDUCATION
+Master of Science, Computer Science | Stanford University | 2019
+Bachelor of Science, Computer Engineering | MIT | 2017
+
+CERTIFICATIONS
+• AWS Certified Machine Learning Specialist
+• Google Professional Data Engineer
+• TensorFlow Developer Certificate
